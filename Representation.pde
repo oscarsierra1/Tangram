@@ -41,9 +41,9 @@ class Representation {
             positions++;
          }
       }
-      float percent = 100-(diff*100)/positions;
+      float percent = 100.0-(diff*100.0)/positions;
       println(percent + "% correct");
-      if (percent < 99.5) return false;
+      if (percent < 98.8) return false;
       return true;
     }
 }

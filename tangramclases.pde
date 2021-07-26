@@ -6,7 +6,7 @@ int menuprincipal = 1;
 PImage img, win;
 int playing = 0;
 int vel = 200;
-int lev = 0;
+int lev = 1;
 int flag = 0;
 int max_level = 0;
 PrintWriter output;
