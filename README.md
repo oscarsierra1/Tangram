@@ -1,6 +1,6 @@
 #Instrucciones
 
--Para mover una figura arrastrar suavemente desde el circulo central de cada figura
+-Para mover una figura arrastrar suavemente el raton desde el circulo central de la figura a la posicion deseada
 
 -Para rotar una figura posicionar el mouse en el circulo central de cada figura y presionar la flecha hacia la derecha o izquierda
 
