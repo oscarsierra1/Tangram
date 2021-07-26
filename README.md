@@ -1,3 +1,10 @@
+#Instrucciones
+-Para mover una figura arrastrar suavemente desde el circulo central de cada figura
+-Para rotar una figura posicionar el mouse en el circulo central de cada figura y presionar la flecha hacia la derecha o izquierda
+-En el modo creador presionar espacio para exportar la figura a un archivo de texto
+-Presionar r para reflejar el romboide
+
+
 # Taller Tangram POO
 
 ## Propósito
