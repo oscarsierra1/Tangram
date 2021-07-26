@@ -1,4 +1,4 @@
-#Instrucciones
+## Instrucciones
 
 -Para mover una figura arrastrar suavemente el raton desde el circulo central de la figura a la posicion deseada
 
